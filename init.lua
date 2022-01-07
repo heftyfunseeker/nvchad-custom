@@ -82,7 +82,7 @@ hooks.add("install_plugins", function(use)
        'williamboman/nvim-lsp-installer',
    }
    use {
-      '~/dev/narrow'
+      'heftyfunseeker/narrow'
    }
    use {
       'chriskempson/base16-vim'
